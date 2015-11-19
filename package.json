@@ -1,0 +1,23 @@
+{
+  "name": "redux-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjw56/redux-tutorial.git"
+  },
+  "author": "Mike Wilcox <mwilcox56@gmail.com> (http://github.com/mjw56)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjw56/redux-tutorial/issues"
+  },
+  "homepage": "https://github.com/mjw56/redux-tutorial#readme",
+  "dependencies": {
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  }
+}
