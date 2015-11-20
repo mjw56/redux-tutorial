@@ -18,6 +18,8 @@
   "homepage": "https://github.com/mjw56/redux-tutorial#readme",
   "dependencies": {
     "react": "^0.14.2",
-    "react-dom": "^0.14.2"
+    "react-dom": "^0.14.2",
+    "react-redux": "^4.0.0",
+    "redux": "^3.0.4"
   }
 }
